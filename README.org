@@ -1,0 +1,7 @@
+* Youtube Music Playlist Downloader
+This script download youtube playlist using yt-dlp.
+
+* Usage
+#+begin_src 
+ .\yt-playlist-dl.ps1 -PlaylistUrl "https://music.youtube.com/playlist?list=<playlist_id>" -OutputDir "<download_location>"
+#+end_src
